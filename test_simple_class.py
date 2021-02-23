@@ -22,4 +22,4 @@ def test_len():
     for i in range(10):
         q.add_item(i)
 
-    assert q.length() == 10
+    assert q.length() == 11
